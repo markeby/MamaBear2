@@ -1,0 +1,94 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b0777fa3-ada7-48e4-a366-91ccc2f25800")
+	(paper "USLegal")
+	(title_block
+		(title "Mama Bear 2")
+	)
+	(lib_symbols)
+	(sheet
+		(at 97.79 60.96)
+		(size 58.42 46.99)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "24469854-45c8-436d-83ea-8f35cd115324")
+		(property "Sheetname" "Audio Distribution"
+			(at 97.79 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AudioDistribution.kicad_sch"
+			(at 97.79 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Mama Bear 2"
+				(path "/b0777fa3-ada7-48e4-a366-91ccc2f25800"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 48.26)
+		(size 41.91 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7ce71e19-2002-400e-87bd-5fa9c0bc2f8d")
+		(property "Sheetname" "Preamp Section"
+			(at 177.8 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PreampSection.kicad_sch"
+			(at 177.8 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Mama Bear 2"
+				(path "/b0777fa3-ada7-48e4-a366-91ccc2f25800"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
